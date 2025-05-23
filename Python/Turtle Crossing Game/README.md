@@ -1,2 +1,0 @@
-This python code includes the turtle library, i learn how to use classes.
-In this code I can play as the turtle and try to cross a busy street without hitting a car, each time i cross the road, i reach a new level where the car speeds are increased
